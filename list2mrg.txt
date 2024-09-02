@@ -14,7 +14,6 @@ kindle-time.amazon.com
 #Google	
 *.google.com
 *.googleapis.com
-clients3.google.com
 www.google.com
 
 #Microsoft	
@@ -57,7 +56,7 @@ cdn.quantummetric.com
 app-measurement.com
 bam.nr-data.net
 s0.2mdn.net
-c.evidon.com
+c.evidon.com  # Rearranged addition
 
 #User_Analytics_&_Engagement	
 *.conviva.com
@@ -75,11 +74,10 @@ cdn.gigya.com
 ##Security_&_Verification	
 #Security_&_Authentication	
 *.duosecurity.com
-auth.split.io
-sdk.split.io
+*.split.io
 ocsp.digicert.com
 status.thawte.com
-r10.o.lencr.org
+r10.o.lencr.org  # Rearranged addition
 
 #Captive_Portals_&_Connectivity_Checks	
 acsechocaptiveportal.com
@@ -98,7 +96,7 @@ graph.instagram.com
 global.apis.naver.com
 ws.pusherapp.com
 js.pusher.com
-s.zkcdn.net
+s.zkcdn.net  # Rearranged addition
 
 ##Cloud_&_API_Services	
 #Cloud_Storage_&_Services	
@@ -118,9 +116,9 @@ geo.nbcsports.com
 android.unid.go.com
 ifood.tv
 beacons.gvt2.com
-smetrics.nfl.com
-sslimghost.device.screenmedia.net
-*.urbanairship.com
+smetrics.nfl.com  # Rearranged addition
+*.device.screenmedia.net  # Rearranged addition
+*.urbanairship.com  # Rearranged addition
 
 #Costco_Specific_Analytics	
 metrics.costco.com
