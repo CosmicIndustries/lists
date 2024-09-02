@@ -14,6 +14,7 @@ kindle-time.amazon.com
 #Google
 *.google.com
 *.googleapis.com
+				   
 www.google.com
 
 #Microsoft
@@ -74,6 +75,7 @@ cdn.gigya.com
 ##Security_&_Verification
 #Security_&_Authentication
 *.duosecurity.com
+			 
 *.split.io
 ocsp.digicert.com
 status.thawte.com
@@ -103,7 +105,7 @@ s.zkcdn.net
 *.dropbox.com
 api.apptentive.com
 ingest.sentry.io
-api2.branch.io
+			  
 
 ##Miscellaneous_or_Industry-Specific
 #Entertainment_&_Media
