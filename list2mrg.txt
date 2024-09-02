@@ -5,6 +5,9 @@
 *.amazon-adsystem.com
 *.s3.amazonaws.com
 kindle-time.amazon.com
+# Amazon Alexa and Amazon Shopping app
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
 
 #Apple
 *.apple.com
@@ -14,7 +17,6 @@ kindle-time.amazon.com
 #Google
 *.google.com
 *.googleapis.com
-				   
 www.google.com
 
 #Microsoft
@@ -37,6 +39,11 @@ cdn.registerdisney.go.com
 *.prod.netflix.net
 *.test.netflix.net
 *.netflixstudios.com
+# Netflix - Domains needed for netflix to work correctly
+api-global.netflix.com
+ichnaea.netflix.com
+appboot.netflix.com
+secure.netflix.com
 
 #Other
 *.hulu.com
@@ -75,7 +82,6 @@ cdn.gigya.com
 ##Security_&_Verification
 #Security_&_Authentication
 *.duosecurity.com
-			 
 *.split.io
 ocsp.digicert.com
 status.thawte.com
@@ -106,7 +112,6 @@ s.zkcdn.net
 api.apptentive.com
 ingest.sentry.io
 			  
-
 ##Miscellaneous_or_Industry-Specific
 #Entertainment_&_Media
 *.roku.com
@@ -127,5 +132,10 @@ z.moatads.com
 
 #Costco_Specific_Analytics
 metrics.costco.com
+
+# Samsung TV's Amazon Prime Video app
+time.samsungcloudsolution.com
+# Samsung smart TV's network issue
+cdn.samsungcloudsolution.com
 
 *.protonvpn.udp
