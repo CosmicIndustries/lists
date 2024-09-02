@@ -12,3 +12,11 @@ disneyplus.com
 dssott.com
 js-agent.newrelic.com
 starott.com
+
+0.0.0.0 disney-1.demdex.net
+0.0.0.0 disneycorporate.d1.sc.omtrdc.net
+0.0.0.0 disney.inq.com
+0.0.0.0 disneyinternational.hb.omtrdc.net
+0.0.0.0 disney.touchcommerce.com
+0.0.0.0 disneyvacations.com.102.112.2o7.net
+0.0.0.0 dis.ny.us.criteo.com
