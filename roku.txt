@@ -1,0 +1,9 @@
+*.adrise.tv
+*.ifood.tv
+*.pluto.tv 
+cloudfront.tubi.video
+manifest.auditude.com
+pcor*.manifest.auditude.com
+siloh-*.plutotv.net
+sslimghost.device.screenmedia.net
+videos-fms.jwpsrv.com
