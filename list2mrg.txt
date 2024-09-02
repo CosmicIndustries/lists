@@ -1,28 +1,28 @@
-##Major_Tech_Companies	
-#Amazon	
+##Major_Tech_Companies
+#Amazon
 *.amazon.com
 *.aws.dev
 *.amazon-adsystem.com
 *.s3.amazonaws.com
 kindle-time.amazon.com
 
-#Apple	
+#Apple
 *.apple.com
 *.apple.de
 *.cdn-apple.com
 
-#Google	
+#Google
 *.google.com
 *.googleapis.com
 www.google.com
 
-#Microsoft	
+#Microsoft
 *.data.microsoft.com
 www.msftconnecttest.com
 watson.telemetry.microsoft.com
 
-##Streaming_Services	
-#Disney	
+##Streaming_Services
+#Disney
 *.disney-plus.net
 *.dssott.com
 disneyplus.com
@@ -31,13 +31,13 @@ disney-portal.my.onetrust.com
 disneyplug.disney.co.jp
 cdn.registerdisney.go.com
 
-#Netflix	
+#Netflix
 *.netflix.net
 *.prod.netflix.net
 *.test.netflix.net
 *.netflixstudios.com
 
-#Other	
+#Other
 *.hulu.com
 *.pluto.tv
 *.plutotv.net
@@ -45,8 +45,8 @@ cdn.registerdisney.go.com
 starott.com
 tv.musicchoice.com
 
-##AdTech_&_Analytics	
-#Advertising_Networks_&_Trackers	
+##AdTech_&_Analytics
+#Advertising_Networks_&_Trackers
 *.kochava.com
 *.omtrdc.net
 *.newrelic.com
@@ -58,7 +58,7 @@ bam.nr-data.net
 s0.2mdn.net
 c.evidon.com
 
-#User_Analytics_&_Engagement	
+#User_Analytics_&_Engagement
 *.conviva.com
 *.imrworldwide.com
 api2.branch.io
@@ -66,20 +66,20 @@ app.fullstory.com/ui/o-1QJ51H-na1
 tags.tiqcdn.com
 cdn.gigya.com
 
-#Content_Delivery_&_Measurement	
+#Content_Delivery_&_Measurement
 *.manifest.auditude.com
 *.bamgrid.com
 *.brightline.tv
 
-##Security_&_Verification	
-#Security_&_Authentication	
+##Security_&_Verification
+#Security_&_Authentication
 *.duosecurity.com
 *.split.io
 ocsp.digicert.com
 status.thawte.com
 r10.o.lencr.org
 
-#Captive_Portals_&_Connectivity_Checks	
+#Captive_Portals_&_Connectivity_Checks
 acsechocaptiveportal.com
 fireoscaptiveportal.com
 tabletcaptiveportal.co
@@ -89,8 +89,8 @@ detectportal.firefox.com
 cfh.wapp.wii.com
 g.live.com
 
-##Social_Media_&_Communication	
-#Messaging_&_Social_Networks	
+##Social_Media_&_Communication
+#Messaging_&_Social_Networks
 c.whatsapp.net
 graph.instagram.com
 global.apis.naver.com
@@ -98,15 +98,15 @@ ws.pusherapp.com
 js.pusher.com
 s.zkcdn.net
 
-##Cloud_&_API_Services	
-#Cloud_Storage_&_Services	
+##Cloud_&_API_Services
+#Cloud_Storage_&_Services
 *.dropbox.com
 api.apptentive.com
 ingest.sentry.io
 api2.branch.io
 
-##Miscellaneous_or_Industry-Specific	
-#Entertainment_&_Media	
+##Miscellaneous_or_Industry-Specific
+#Entertainment_&_Media
 *.roku.com
 bbvdms.dtvbb.tv
 cloudfront.tubi.video
@@ -119,6 +119,9 @@ beacons.gvt2.com
 smetrics.nfl.com
 *.device.screenmedia.net
 *.urbanairship.com
+d9.flashtalking.com
+in.appcenter.ms
+z.moatads.com
 
-#Costco_Specific_Analytics	
+#Costco_Specific_Analytics
 metrics.costco.com
