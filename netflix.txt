@@ -63,10 +63,8 @@ ingest.sentry.io/
 log-publish-external.prod.netflix.net:7004
 meechum.netflix.com
 nflxaccess.prod.netflix.net/
-pegasusasperaprod.us-east-1.dynprod.netflix.net
 pegasusasperaprod.us-east-1.dynprod.netflix.net 
 pipelineapi-mps.prod.netflixstudios.com:7004
-public.nflxe2etokens.prod.netflix.net
 public.nflxe2etokens.prod.netflix.net 
 public.nflxe2etokens.us-east-1.prod.netflix.net
 radarproxy.netflix.net
