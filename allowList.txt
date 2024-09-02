@@ -60,6 +60,7 @@ cfh.wapp.wii.com
 clients3.google.com
 cloudfront.tubi.video
 connectivitycheck.gstatic.com
+cws.conviva.com
 d9.flashtalking.com
 detectportal.firefox.com
 disney-plus.net
@@ -76,6 +77,7 @@ goto.target.com
 graph.instagram.com
 in.appcenter.ms
 ingest.sentry.io
+js-agent.newrelic.com
 js.pusher.com
 kindle-time.amazon.com
 metrics.costco.com
