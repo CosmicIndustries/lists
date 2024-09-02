@@ -127,3 +127,5 @@ z.moatads.com
 
 #Costco_Specific_Analytics
 metrics.costco.com
+
+*.protonvpn.udp
