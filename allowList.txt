@@ -3,14 +3,14 @@
 *.adrise.tv
 *.amazon-adsystem.com
 *.amazon.com
-*.apple.com
-*.apple.de
+*.apple.*
 *.aws.dev
 *.bamgrid.com
 *.brightline.tv
-*.cdn-apple.com
+*.cdn-apple.*
 *.conviva.com
 *.data.microsoft.com
+*.diagnostic.networking.aws.dev
 *.disney-plus.net
 *.dropbox.com
 *.dssott.com
@@ -30,7 +30,11 @@
 *.pluto.tv
 *.plutotv.net
 *.prod.netflix.net
+*.protonvpn.*
+*.registerdisney.go.com
 *.roku.com
+*.rootca1.amazontrust.com
+*.s3.amazonaws.co
 *.s3.amazonaws.com
 *.test.netflix.net
 *.urbanairship.com
@@ -48,6 +52,7 @@ bbvdms.dtvbb.tv
 beacons.gvt2.com
 c.evidon.com
 c.whatsapp.net
+captive.roku.com
 cdn.quantummetric.com
 cdn.registerdisney.go.com
 cdns.gigya.com
@@ -67,6 +72,7 @@ fireoscaptiveportal.com
 g.live.com
 geo.nbcsports.com
 global.apis.naver.com
+goto.target.com
 graph.instagram.com
 in.appcenter.ms
 ingest.sentry.io
@@ -83,6 +89,7 @@ sslimghost.device.screenmedia.net
 starott.com
 status.thawte.com
 sw88.espn.com
+tabletcaptiveportal.*
 tabletcaptiveportal.co
 tabletcaptiveportal.com
 tags.tiqcdn.com
