@@ -33,6 +33,21 @@ disneyplus.bn5x.net
 disney-portal.my.onetrust.com
 disneyplug.disney.co.jp
 cdn.registerdisney.go.com
+disneyplus.com
+bamgrid.com
+bam.nr-data.net
+cdn.registerdisney.go.com
+cws.conviva.com
+d9.flashtalking.com
+disneyplus.bn5x.net
+js-agent.newrelic.com
+disney-plus.net
+dssott.com
+adobedtm.com
+starott.com
+disneyplug.disney.co.jp
+
+
 
 #Netflix
 *.netflix.net
@@ -44,6 +59,7 @@ api-global.netflix.com
 ichnaea.netflix.com
 appboot.netflix.com
 secure.netflix.com
+nrdp60-appboot.netflix.com
 
 #Other
 *.hulu.com
@@ -138,4 +154,4 @@ time.samsungcloudsolution.com
 # Samsung smart TV's network issue
 cdn.samsungcloudsolution.com
 
-*.protonvpn.udp
+*.protonvpn.*
