@@ -149,4 +149,5 @@ This method effectively blocks the domains by preventing the system from resolvi
 Each of these methods allows you to block specific domains while allowing everything else, depending on the network infrastructure or use case you prefer.
 ```
 
-Let me know if you'd like help setting up one of these methods!```
+Let me know if you'd like help setting up one of these methods!
+```
