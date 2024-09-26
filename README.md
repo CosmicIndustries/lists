@@ -1,4 +1,4 @@
-# Allow Lists
+ # Allow Lists
 
 This folder contains several allow lists used to manage and filter access to specific services or content platforms. Each file within this folder represents a list of domains, IPs, or other identifiers that are approved for access, grouped by service or platform. Below is a description of each file:
 
@@ -138,6 +138,8 @@ If you're looking for a simple solution on individual machines, you can edit the
 ```
 
 This method effectively blocks the domains by preventing the system from resolving their real IP addresses. However, it only works on the machine where the `hosts` file is edited.
+* Use 0.0.0.0 if you want a cleaner and faster block with no attempt to connect anywhere.
+Use 127.0.0.1 if you have a specific need to route traffic back to your local machine, though in most cases, 0.0.0.0 is more efficient.
 
 ### Summary of Approaches
 
