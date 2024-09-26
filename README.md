@@ -37,7 +37,7 @@ type allowList.txt disney.txt netflix.txt roku.txt > mergedAllowList.txt
 
 This will create a new file `mergedAllowList.txt` containing the entries from all specified lists.
 
-## denylist
+## Optional: Allowing Everything Except Certain Domains (DenyList)
 
 To allow everything except certain domains, you would essentially need to create a **denylist** (blacklist) that blocks specific domains while allowing all other traffic. This can be achieved by configuring a firewall, DNS filtering, or a proxy server to block only the domains you specify. Here's how you can implement this concept:
 
